@@ -1,7 +1,6 @@
 # tanksminigame
 
-engine.h -> contains 2 classes; one is for the engine of the game, whereas the second is an abstract class that will be used to create 
-classes for each type of unit in the game: tank, bomb, wall 
+engine.h -> contains 2 classes; one is used for the engine of the game, whereas the second is an abstract class that will be used to create classes for each type of unit in the game: tank, bomb, wall 
 
 joctanc.h -> contains the classes of each unit used by this game: tank, bomb, wall
 
