@@ -4,15 +4,10 @@
 #include <conio.h>
 using namespace std;
 
-
-
-
 #include "output.h"
 #include "joctanc.h"
 #include "input.h"
 #include "board.h"
-
-
 
 void readControls()
 {
